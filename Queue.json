@@ -1,7 +1,9 @@
-[
-  {
-    "id": 1,
-    "Question": "LRU",
-    "level": "HARD"
-  }
-]
+[{
+  "id": 1,
+  "Question": "Design Stack using Queue ",
+  "level": "Medium"
+}, {
+  "id": 2,
+  "Question": "LRU",
+  "level": "HARD"
+}]
